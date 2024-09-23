@@ -1,0 +1,40 @@
+.bg-primary{
+    background-color: #e493a4 !important
+} 
+
+.nav-link{
+    color: white !important
+}
+
+.card-title{
+    color: #885a66;
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal !important
+}
+
+.navbar-dark{
+    color: #885a66;
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal !important
+}
+
+.row{
+    margin: 2rem;
+}
+
+h3{
+    color: #885a66;
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal !important
+}
+
+hr{
+    color: #885a66 !important;
+    height: 4px !important
+}
